@@ -58,6 +58,11 @@ The main objectives of this project are:
 - NULLIF
 
 ---
+## Data Model
+
+The project uses two tables connected through Customer_ID.
+
+![SQL Data Model](SQL_Data_Model.png)
 
 ## Analysis Performed
 
@@ -142,8 +147,3 @@ Sales-SQL-Analysis/
 ├── customers_data.csv
 └── README.md
 
-## Data Model
-
-The project uses two tables connected through Customer_ID.
-
-![SQL Data Model](SQL_Data_Model.png)
