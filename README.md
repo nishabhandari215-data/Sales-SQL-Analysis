@@ -141,3 +141,9 @@ Sales-SQL-Analysis/
 ├── sales_data.csv
 ├── customers_data.csv
 └── README.md
+
+## Data Model
+
+The project uses two tables connected through Customer_ID.
+
+![SQL Data Model](SQL_Data_Model.png)
