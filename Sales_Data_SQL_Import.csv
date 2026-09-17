@@ -1,0 +1,201 @@
+Order_ID,Order_Date,Customer_ID,State,Customer_Segment,Product,Category,Quantity,Unit_Price_INR,Discount,Sales_INR,Cost_INR,Profit_INR,Payment_Mode
+ORD1002,2025-02-22,CUST170,Haryana,Small Business,Monitor,Electronics,3,9600,0.05,27360.0,20869.69,6490.31,Net Banking
+ORD1003,2025-11-05,CUST104,West Bengal,Consumer,Laptop,Electronics,1,46500,0.05,44175.0,33783.75,10391.25,Cash
+ORD1004,2025-01-04,CUST121,Rajasthan,Corporate,Tablet,Electronics,4,23200,0.1,83520.0,78127.03,5392.97,Debit Card
+ORD1005,2025-02-19,CUST146,Gujarat,Small Business,Keyboard,Accessories,3,2100,0.0,6300.0,4400.86,1899.14,Debit Card
+ORD1006,2025-07-13,CUST111,West Bengal,Corporate,Laptop,Electronics,4,82300,0.0,329200.0,287925.94,41274.06,Cash
+ORD1007,2025-04-27,CUST138,Haryana,Consumer,Printer,Office Equipment,2,21700,0.0,43400.0,29909.76,13490.24,UPI
+ORD1008,2025-07-01,CUST127,Karnataka,Small Business,Tablet,Electronics,4,26200,0.1,94320.0,74673.23,19646.77,UPI
+ORD1009,2025-05-19,CUST172,Maharashtra,Small Business,Keyboard,Accessories,2,4200,0.05,7980.0,6488.6,1491.4,Debit Card
+ORD1010,2025-02-03,CUST128,Tamil Nadu,Small Business,Laptop,Electronics,1,56700,0.1,51030.0,43105.21,7924.79,Debit Card
+ORD1011,2025-11-26,CUST159,Uttar Pradesh,Corporate,Mouse,Accessories,4,2500,0.15,8500.0,8569.37,-69.37,Credit Card
+ORD1012,2025-08-08,CUST175,Rajasthan,Corporate,Mouse,Accessories,5,2800,0.1,12600.0,11611.64,988.36,Credit Card
+ORD1013,2025-02-26,CUST120,Uttar Pradesh,Small Business,Keyboard,Accessories,4,4000,0.0,16000.0,13298.5,2701.5,Net Banking
+ORD1014,2025-10-11,CUST102,Haryana,Small Business,Monitor,Electronics,4,18800,0.15,63920.0,59093.88,4826.12,Cash
+ORD1015,2025-03-22,CUST159,Delhi,Small Business,Headphones,Accessories,3,6100,0.0,18300.0,13518.21,4781.79,Debit Card
+ORD1016,2025-09-17,CUST178,Maharashtra,Consumer,Keyboard,Accessories,1,4000,0.1,3600.0,3393.34,206.66,Debit Card
+ORD1017,2025-09-08,CUST103,Haryana,Corporate,Keyboard,Accessories,5,4200,0.0,21000.0,16795.57,4204.43,Debit Card
+ORD1018,2025-09-06,CUST109,West Bengal,Consumer,Mouse,Accessories,2,600,0.0,1200.0,836.56,363.44,Credit Card
+ORD1019,2025-11-07,CUST155,Maharashtra,Small Business,Webcam,Accessories,2,8500,0.1,15300.0,13354.09,1945.91,Credit Card
+ORD1020,2025-08-20,CUST116,Maharashtra,Consumer,Headphones,Accessories,3,3700,0.15,9435.0,9545.14,-110.14,UPI
+ORD1021,2025-01-04,CUST110,Delhi,Consumer,Printer,Office Equipment,5,7500,0.05,35625.0,29913.3,5711.7,UPI
+ORD1022,2025-09-06,CUST128,West Bengal,Consumer,Laptop,Electronics,1,61900,0.05,58805.0,45539.55,13265.45,Cash
+ORD1023,2025-02-19,CUST156,Gujarat,Corporate,Webcam,Accessories,4,4600,0.15,15640.0,13212.71,2427.29,Net Banking
+ORD1024,2025-06-23,CUST114,Maharashtra,Consumer,Webcam,Accessories,1,2100,0.0,2100.0,1597.1,502.9,Credit Card
+ORD1025,2025-05-08,CUST110,Punjab,Small Business,Webcam,Accessories,4,3200,0.05,12160.0,9417.08,2742.92,UPI
+ORD1026,2025-05-02,CUST122,Rajasthan,Corporate,Laptop,Electronics,5,78300,0.0,391500.0,342092.41,49407.59,Net Banking
+ORD1027,2025-07-19,CUST134,Punjab,Corporate,Mouse,Accessories,1,1700,0.05,1615.0,1284.85,330.15,Net Banking
+ORD1028,2025-01-30,CUST175,West Bengal,Consumer,Webcam,Accessories,2,3400,0.1,6120.0,4920.07,1199.93,Debit Card
+ORD1029,2025-09-29,CUST121,Delhi,Small Business,Laptop,Electronics,5,47500,0.15,201875.0,185385.39,16489.61,UPI
+ORD1030,2025-05-01,CUST152,Haryana,Small Business,Keyboard,Accessories,5,1200,0.0,6000.0,4890.26,1109.74,Credit Card
+ORD1031,2025-10-17,CUST167,Gujarat,Corporate,Laptop,Electronics,1,76700,0.15,65195.0,62240.1,2954.9,Credit Card
+ORD1032,2025-11-27,CUST139,Punjab,Corporate,Printer,Office Equipment,3,13100,0.15,33405.0,27752.7,5652.3,UPI
+ORD1033,2025-04-20,CUST165,Karnataka,Consumer,Laptop,Electronics,5,68400,0.0,342000.0,237571.03,104428.97,Debit Card
+ORD1034,2025-10-06,CUST139,Tamil Nadu,Small Business,Monitor,Electronics,3,15200,0.1,41040.0,32446.65,8593.35,Cash
+ORD1035,2025-02-23,CUST118,Karnataka,Consumer,Laptop,Electronics,5,79100,0.1,355950.0,342641.9,13308.1,UPI
+ORD1036,2025-04-15,CUST134,West Bengal,Corporate,Keyboard,Accessories,3,2500,0.05,7125.0,6176.42,948.58,Debit Card
+ORD1037,2025-06-20,CUST117,Karnataka,Consumer,Laptop,Electronics,4,49700,0.1,178920.0,136936.89,41983.11,Net Banking
+ORD1038,2025-12-20,CUST120,West Bengal,Consumer,Tablet,Electronics,1,40700,0.0,40700.0,28288.49,12411.51,Debit Card
+ORD1039,2025-01-21,CUST146,Maharashtra,Small Business,Keyboard,Accessories,2,3500,0.0,7000.0,5191.56,1808.44,Credit Card
+ORD1040,2025-03-21,CUST131,Uttar Pradesh,Consumer,Monitor,Electronics,5,18000,0.15,76500.0,78729.07,-2229.07,Net Banking
+ORD1041,2025-05-08,CUST135,Uttar Pradesh,Small Business,Laptop,Electronics,3,54100,0.15,137955.0,136404.55,1550.45,UPI
+ORD1042,2025-08-24,CUST145,Karnataka,Consumer,Tablet,Electronics,4,13900,0.05,52820.0,40027.25,12792.75,Credit Card
+ORD1043,2025-02-05,CUST136,Gujarat,Small Business,Laptop,Electronics,2,78700,0.15,133790.0,117365.69,16424.31,Cash
+ORD1044,2025-03-01,CUST134,Uttar Pradesh,Small Business,Tablet,Electronics,5,46700,0.1,210150.0,202642.37,7507.63,Debit Card
+ORD1045,2025-06-10,CUST156,Tamil Nadu,Small Business,Laptop,Electronics,5,50500,0.15,214625.0,189157.2,25467.8,UPI
+ORD1046,2025-08-12,CUST101,West Bengal,Small Business,Tablet,Electronics,2,41500,0.1,74700.0,57176.82,17523.18,Credit Card
+ORD1047,2025-12-06,CUST116,Karnataka,Small Business,Printer,Office Equipment,1,18000,0.1,16200.0,14483.36,1716.64,Debit Card
+ORD1048,2025-04-09,CUST154,Rajasthan,Small Business,Tablet,Electronics,4,28700,0.1,103320.0,90793.31,12526.69,Credit Card
+ORD1049,2025-04-18,CUST156,Tamil Nadu,Small Business,Headphones,Accessories,5,3700,0.0,18500.0,13704.34,4795.66,Debit Card
+ORD1050,2025-03-28,CUST111,Karnataka,Small Business,Webcam,Accessories,4,7100,0.05,26980.0,22215.47,4764.53,Cash
+ORD1051,2025-04-12,CUST119,Delhi,Consumer,Printer,Office Equipment,2,9300,0.1,16740.0,13483.66,3256.34,Credit Card
+ORD1052,2025-10-22,CUST125,Rajasthan,Corporate,Webcam,Accessories,4,2400,0.15,8160.0,8229.38,-69.38,Net Banking
+ORD1053,2025-04-23,CUST123,West Bengal,Corporate,Mouse,Accessories,1,900,0.0,900.0,752.12,147.88,UPI
+ORD1054,2025-12-08,CUST168,West Bengal,Small Business,Mouse,Accessories,4,800,0.05,3040.0,2688.91,351.09,Debit Card
+ORD1055,2025-09-01,CUST158,Karnataka,Consumer,Webcam,Accessories,4,7900,0.15,26860.0,27158.36,-298.36,Debit Card
+ORD1056,2025-05-27,CUST131,Karnataka,Corporate,Webcam,Accessories,3,4500,0.15,11475.0,9389.21,2085.79,Debit Card
+ORD1057,2025-03-20,CUST128,Haryana,Corporate,Monitor,Electronics,2,12500,0.05,23750.0,18915.18,4834.82,Net Banking
+ORD1058,2025-08-04,CUST150,Tamil Nadu,Small Business,Printer,Office Equipment,4,20800,0.15,70720.0,57612.1,13107.9,UPI
+ORD1059,2025-07-19,CUST154,West Bengal,Small Business,Tablet,Electronics,1,36400,0.1,32760.0,26925.9,5834.1,Cash
+ORD1060,2025-01-15,CUST150,Gujarat,Small Business,Mouse,Accessories,2,2000,0.1,3600.0,3068.67,531.33,Net Banking
+ORD1061,2025-10-31,CUST173,Delhi,Consumer,Keyboard,Accessories,2,3700,0.0,7400.0,6374.25,1025.75,Net Banking
+ORD1062,2025-06-17,CUST128,Punjab,Corporate,Keyboard,Accessories,2,3700,0.0,7400.0,5417.03,1982.97,Debit Card
+ORD1063,2025-08-29,CUST103,West Bengal,Consumer,Tablet,Electronics,4,26200,0.1,94320.0,88763.73,5556.27,Debit Card
+ORD1064,2025-05-07,CUST126,Delhi,Small Business,Mouse,Accessories,1,2500,0.0,2500.0,2077.12,422.88,Credit Card
+ORD1065,2025-04-22,CUST160,Karnataka,Corporate,Mouse,Accessories,4,900,0.0,3600.0,2854.06,745.94,Credit Card
+ORD1066,2025-01-14,CUST140,Tamil Nadu,Small Business,Monitor,Electronics,2,28900,0.1,52020.0,40553.62,11466.38,Net Banking
+ORD1067,2025-11-18,CUST132,Haryana,Small Business,Tablet,Electronics,2,48600,0.0,97200.0,77606.38,19593.62,Debit Card
+ORD1068,2025-08-08,CUST148,Haryana,Small Business,Monitor,Electronics,5,29300,0.0,146500.0,109793.07,36706.93,Debit Card
+ORD1069,2025-07-05,CUST159,Uttar Pradesh,Corporate,Laptop,Electronics,4,66500,0.0,266000.0,203943.44,62056.56,Credit Card
+ORD1070,2025-10-31,CUST135,Gujarat,Consumer,Headphones,Accessories,5,5100,0.15,21675.0,19710.86,1964.14,UPI
+ORD1071,2025-10-19,CUST179,Rajasthan,Corporate,Headphones,Accessories,4,6800,0.05,25840.0,22578.59,3261.41,UPI
+ORD1072,2025-05-13,CUST144,Karnataka,Small Business,Webcam,Accessories,2,5600,0.15,9520.0,8091.15,1428.85,Debit Card
+ORD1073,2025-07-28,CUST163,West Bengal,Consumer,Laptop,Electronics,2,71400,0.0,142800.0,103997.13,38802.87,Net Banking
+ORD1074,2025-07-27,CUST132,Karnataka,Small Business,Webcam,Accessories,1,7200,0.0,7200.0,5319.7,1880.3,Cash
+ORD1075,2025-10-09,CUST143,Gujarat,Small Business,Printer,Office Equipment,5,19100,0.1,85950.0,73067.12,12882.88,Net Banking
+ORD1076,2025-04-09,CUST141,Haryana,Small Business,Headphones,Accessories,3,3100,0.05,8835.0,6548.42,2286.58,Cash
+ORD1077,2025-10-29,CUST168,Tamil Nadu,Corporate,Keyboard,Accessories,2,2000,0.15,3400.0,2941.2,458.8,UPI
+ORD1078,2025-01-08,CUST169,Uttar Pradesh,Corporate,Mouse,Accessories,2,1400,0.1,2520.0,2004.49,515.51,UPI
+ORD1079,2025-09-09,CUST114,Delhi,Small Business,Laptop,Electronics,3,73300,0.05,208905.0,177585.51,31319.49,Debit Card
+ORD1080,2025-01-27,CUST133,Punjab,Consumer,Webcam,Accessories,4,7600,0.1,27360.0,21792.93,5567.07,UPI
+ORD1081,2025-10-16,CUST139,Haryana,Consumer,Tablet,Electronics,1,37100,0.0,37100.0,26353.81,10746.19,UPI
+ORD1082,2025-07-14,CUST158,Punjab,Corporate,Tablet,Electronics,5,43000,0.05,204250.0,179554.82,24695.18,Cash
+ORD1083,2025-02-20,CUST127,Maharashtra,Corporate,Tablet,Electronics,5,27600,0.0,138000.0,110665.81,27334.19,UPI
+ORD1084,2025-07-29,CUST158,Tamil Nadu,Corporate,Keyboard,Accessories,2,2300,0.0,4600.0,3272.01,1327.99,Debit Card
+ORD1085,2025-08-21,CUST110,Maharashtra,Corporate,Laptop,Electronics,3,56800,0.1,153360.0,139829.82,13530.18,Cash
+ORD1086,2025-05-17,CUST119,Haryana,Consumer,Mouse,Accessories,1,1800,0.05,1710.0,1457.15,252.85,Credit Card
+ORD1087,2025-08-28,CUST139,Rajasthan,Corporate,Headphones,Accessories,5,5000,0.1,22500.0,19195.77,3304.23,Cash
+ORD1088,2025-06-15,CUST178,Karnataka,Consumer,Webcam,Accessories,1,7100,0.0,7100.0,6090.98,1009.02,UPI
+ORD1089,2025-12-11,CUST135,Tamil Nadu,Consumer,Mouse,Accessories,5,2600,0.0,13000.0,11438.89,1561.11,Credit Card
+ORD1090,2025-10-27,CUST156,Punjab,Consumer,Webcam,Accessories,4,8100,0.1,29160.0,23208.05,5951.95,Net Banking
+ORD1091,2025-03-24,CUST143,Rajasthan,Small Business,Printer,Office Equipment,3,17400,0.1,46980.0,42492.19,4487.81,Net Banking
+ORD1092,2025-06-11,CUST133,Gujarat,Consumer,Headphones,Accessories,4,5400,0.0,21600.0,16652.85,4947.15,Net Banking
+ORD1093,2025-04-07,CUST167,Gujarat,Small Business,Laptop,Electronics,5,78600,0.15,334050.0,299721.26,34328.74,Net Banking
+ORD1094,2025-05-28,CUST157,Punjab,Consumer,Webcam,Accessories,2,2100,0.1,3780.0,3317.34,462.66,UPI
+ORD1095,2025-10-10,CUST153,Haryana,Consumer,Mouse,Accessories,2,2700,0.1,4860.0,4266.91,593.09,UPI
+ORD1096,2025-05-30,CUST166,Karnataka,Corporate,Webcam,Accessories,2,3000,0.15,5100.0,5199.18,-99.18,Net Banking
+ORD1097,2025-11-03,CUST166,Uttar Pradesh,Consumer,Webcam,Accessories,4,4600,0.05,17480.0,13923.6,3556.4,Debit Card
+ORD1098,2025-05-25,CUST139,Tamil Nadu,Small Business,Tablet,Electronics,5,29400,0.1,132300.0,124084.15,8215.85,Net Banking
+ORD1099,2025-10-10,CUST170,Rajasthan,Corporate,Keyboard,Accessories,5,3600,0.15,15300.0,13482.45,1817.55,Debit Card
+ORD1100,2025-07-30,CUST106,Gujarat,Small Business,Mouse,Accessories,2,2700,0.15,4590.0,3924.25,665.75,Net Banking
+ORD1101,2025-03-06,CUST165,Tamil Nadu,Corporate,Tablet,Electronics,2,31700,0.15,53890.0,55345.97,-1455.97,UPI
+ORD1102,2025-03-15,CUST153,Uttar Pradesh,Consumer,Webcam,Accessories,5,2700,0.15,11475.0,9221.44,2253.56,Net Banking
+ORD1103,2025-06-18,CUST169,Rajasthan,Corporate,Headphones,Accessories,5,3300,0.15,14025.0,13364.46,660.54,Net Banking
+ORD1104,2025-05-28,CUST130,Haryana,Corporate,Laptop,Electronics,1,76600,0.05,72770.0,61757.39,11012.61,UPI
+ORD1105,2025-01-24,CUST142,Delhi,Corporate,Monitor,Electronics,2,20300,0.1,36540.0,34943.8,1596.2,Debit Card
+ORD1106,2025-10-17,CUST124,Uttar Pradesh,Consumer,Printer,Office Equipment,2,18000,0.05,34200.0,28304.4,5895.6,UPI
+ORD1107,2025-03-15,CUST130,Punjab,Small Business,Tablet,Electronics,2,43700,0.15,74290.0,75388.25,-1098.25,Debit Card
+ORD1108,2025-12-13,CUST170,Uttar Pradesh,Consumer,Webcam,Accessories,1,4700,0.15,3995.0,4043.14,-48.14,Net Banking
+ORD1109,2025-08-22,CUST139,Maharashtra,Corporate,Printer,Office Equipment,3,22000,0.15,56100.0,53992.14,2107.86,Net Banking
+ORD1110,2025-12-25,CUST138,Delhi,Small Business,Monitor,Electronics,4,15000,0.1,54000.0,47697.74,6302.26,Net Banking
+ORD1111,2025-09-12,CUST137,Maharashtra,Small Business,Headphones,Accessories,5,1200,0.0,6000.0,5172.74,827.26,Debit Card
+ORD1112,2025-12-04,CUST118,Haryana,Small Business,Mouse,Accessories,2,2500,0.1,4500.0,4077.76,422.24,UPI
+ORD1113,2025-03-09,CUST112,Karnataka,Corporate,Headphones,Accessories,4,6200,0.0,24800.0,19738.69,5061.31,Net Banking
+ORD1114,2025-05-20,CUST122,Karnataka,Corporate,Keyboard,Accessories,2,2000,0.1,3600.0,3144.68,455.32,Debit Card
+ORD1115,2025-03-14,CUST129,Rajasthan,Small Business,Printer,Office Equipment,1,27500,0.15,23375.0,23995.91,-620.91,Debit Card
+ORD1116,2025-03-05,CUST159,Gujarat,Small Business,Monitor,Electronics,4,29200,0.0,116800.0,85601.75,31198.25,Debit Card
+ORD1117,2025-08-30,CUST104,Tamil Nadu,Small Business,Tablet,Electronics,3,54100,0.0,162300.0,132269.19,30030.81,Debit Card
+ORD1118,2025-06-04,CUST153,Haryana,Consumer,Mouse,Accessories,1,2500,0.15,2125.0,2154.69,-29.69,UPI
+ORD1119,2025-10-03,CUST118,Rajasthan,Corporate,Laptop,Electronics,4,60500,0.0,242000.0,169264.09,72735.91,Debit Card
+ORD1120,2025-09-08,CUST179,Rajasthan,Corporate,Tablet,Electronics,2,42000,0.15,71400.0,68122.69,3277.31,UPI
+ORD1121,2025-07-05,CUST113,Gujarat,Small Business,Printer,Office Equipment,4,12500,0.15,42500.0,43505.55,-1005.55,Debit Card
+ORD1122,2025-08-21,CUST112,Maharashtra,Small Business,Laptop,Electronics,3,65300,0.05,186105.0,171146.35,14958.65,Cash
+ORD1123,2025-10-17,CUST127,Haryana,Small Business,Laptop,Electronics,3,47500,0.05,135375.0,125081.4,10293.6,Credit Card
+ORD1124,2025-11-02,CUST101,Karnataka,Consumer,Mouse,Accessories,3,1200,0.05,3420.0,3015.82,404.18,Credit Card
+ORD1125,2025-01-14,CUST117,Delhi,Corporate,Headphones,Accessories,2,6300,0.0,12600.0,10233.87,2366.13,Credit Card
+ORD1126,2025-08-04,CUST168,Haryana,Small Business,Printer,Office Equipment,2,7400,0.1,13320.0,10219.1,3100.9,UPI
+ORD1127,2025-04-24,CUST179,Delhi,Small Business,Webcam,Accessories,3,7200,0.0,21600.0,16640.66,4959.34,Cash
+ORD1128,2025-07-25,CUST155,Haryana,Corporate,Headphones,Accessories,1,4100,0.0,4100.0,3606.84,493.16,Net Banking
+ORD1129,2025-05-21,CUST180,Tamil Nadu,Small Business,Monitor,Electronics,3,11000,0.05,31350.0,22873.5,8476.5,Debit Card
+ORD1130,2025-11-06,CUST156,Haryana,Small Business,Tablet,Electronics,5,42500,0.1,191250.0,163782.91,27467.09,UPI
+ORD1131,2025-08-21,CUST152,Rajasthan,Small Business,Mouse,Accessories,4,1800,0.05,6840.0,5491.89,1348.11,UPI
+ORD1132,2025-03-20,CUST161,Haryana,Consumer,Printer,Office Equipment,3,17900,0.1,48330.0,40535.99,7794.01,UPI
+ORD1133,2025-10-12,CUST108,Tamil Nadu,Small Business,Monitor,Electronics,1,20000,0.1,18000.0,16847.08,1152.92,Cash
+ORD1134,2025-12-07,CUST155,Delhi,Corporate,Printer,Office Equipment,1,24100,0.15,20485.0,18092.34,2392.66,Cash
+ORD1135,2025-09-04,CUST129,Haryana,Corporate,Headphones,Accessories,1,3400,0.05,3230.0,2417.22,812.78,Cash
+ORD1136,2025-10-15,CUST180,Tamil Nadu,Small Business,Printer,Office Equipment,3,9900,0.05,28215.0,24990.89,3224.11,Cash
+ORD1137,2025-12-26,CUST140,Gujarat,Corporate,Laptop,Electronics,3,76100,0.0,228300.0,163481.8,64818.2,UPI
+ORD1138,2025-11-21,CUST104,Haryana,Small Business,Keyboard,Accessories,5,1700,0.15,7225.0,5898.3,1326.7,Cash
+ORD1139,2025-07-09,CUST140,Gujarat,Small Business,Mouse,Accessories,4,1700,0.15,5780.0,5087.62,692.38,Cash
+ORD1140,2025-01-26,CUST111,Karnataka,Corporate,Monitor,Electronics,2,10300,0.05,19570.0,17116.28,2453.72,Net Banking
+ORD1141,2025-09-20,CUST115,Gujarat,Corporate,Webcam,Accessories,4,7100,0.1,25560.0,20536.43,5023.57,UPI
+ORD1142,2025-06-07,CUST106,Maharashtra,Corporate,Headphones,Accessories,5,5500,0.15,23375.0,21598.14,1776.86,Cash
+ORD1143,2025-03-12,CUST133,Karnataka,Corporate,Laptop,Electronics,2,45300,0.1,81540.0,78737.27,2802.73,UPI
+ORD1144,2025-09-30,CUST130,West Bengal,Small Business,Laptop,Electronics,4,70400,0.05,267520.0,198763.74,68756.26,Debit Card
+ORD1145,2025-02-09,CUST141,Tamil Nadu,Corporate,Monitor,Electronics,1,19100,0.15,16235.0,13059.59,3175.41,Cash
+ORD1146,2025-01-11,CUST142,Uttar Pradesh,Small Business,Tablet,Electronics,4,48300,0.1,173880.0,135826.3,38053.7,Net Banking
+ORD1147,2025-10-29,CUST152,West Bengal,Consumer,Printer,Office Equipment,4,9200,0.0,36800.0,26814.81,9985.19,Net Banking
+ORD1148,2025-03-28,CUST110,West Bengal,Small Business,Headphones,Accessories,3,5900,0.05,16815.0,13215.06,3599.94,UPI
+ORD1149,2025-11-27,CUST119,Maharashtra,Consumer,Mouse,Accessories,3,2900,0.1,7830.0,7181.64,648.36,Credit Card
+ORD1150,2025-12-02,CUST110,Uttar Pradesh,Small Business,Headphones,Accessories,2,2400,0.05,4560.0,3993.81,566.19,Net Banking
+ORD1151,2025-10-17,CUST180,Gujarat,Small Business,Webcam,Accessories,5,8700,0.15,36975.0,35505.86,1469.14,Debit Card
+ORD1152,2025-06-05,CUST136,Tamil Nadu,Consumer,Keyboard,Accessories,1,3600,0.15,3060.0,2766.39,293.61,Debit Card
+ORD1153,2025-07-08,CUST137,Haryana,Small Business,Monitor,Electronics,4,16900,0.15,57460.0,46476.45,10983.55,UPI
+ORD1154,2025-10-20,CUST125,Gujarat,Small Business,Tablet,Electronics,5,35600,0.0,178000.0,137050.52,40949.48,Net Banking
+ORD1155,2025-06-25,CUST111,West Bengal,Small Business,Keyboard,Accessories,4,1100,0.0,4400.0,3705.65,694.35,Credit Card
+ORD1156,2025-11-09,CUST121,Gujarat,Corporate,Laptop,Electronics,4,57600,0.15,195840.0,180821.08,15018.92,Debit Card
+ORD1157,2025-11-28,CUST143,Haryana,Corporate,Tablet,Electronics,3,32900,0.0,98700.0,82695.34,16004.66,UPI
+ORD1158,2025-10-26,CUST119,Gujarat,Corporate,Tablet,Electronics,3,26500,0.05,75525.0,59360.46,16164.54,Net Banking
+ORD1159,2025-06-18,CUST117,West Bengal,Consumer,Keyboard,Accessories,3,1300,0.15,3315.0,3153.92,161.08,Net Banking
+ORD1160,2025-04-20,CUST144,Punjab,Consumer,Printer,Office Equipment,3,7400,0.1,19980.0,15896.37,4083.63,Credit Card
+ORD1161,2025-02-21,CUST165,West Bengal,Small Business,Keyboard,Accessories,1,1700,0.1,1530.0,1443.11,86.89,Cash
+ORD1162,2025-03-20,CUST121,Uttar Pradesh,Small Business,Laptop,Electronics,3,78800,0.05,224580.0,188989.81,35590.19,Cash
+ORD1163,2025-05-02,CUST157,Tamil Nadu,Corporate,Keyboard,Accessories,1,3600,0.15,3060.0,2710.3,349.7,Net Banking
+ORD1164,2025-08-29,CUST125,Gujarat,Small Business,Mouse,Accessories,2,2200,0.1,3960.0,3841.73,118.27,Cash
+ORD1165,2025-08-03,CUST121,Maharashtra,Small Business,Webcam,Accessories,3,7400,0.15,18870.0,17328.91,1541.09,Credit Card
+ORD1166,2025-02-22,CUST167,Haryana,Corporate,Headphones,Accessories,4,1500,0.1,5400.0,4745.45,654.55,UPI
+ORD1167,2025-02-16,CUST129,Punjab,Corporate,Keyboard,Accessories,4,2500,0.05,9500.0,8462.09,1037.91,UPI
+ORD1168,2025-02-11,CUST148,Maharashtra,Consumer,Tablet,Electronics,4,14700,0.1,52920.0,42756.75,10163.25,Debit Card
+ORD1169,2025-05-27,CUST161,Uttar Pradesh,Small Business,Monitor,Electronics,3,27200,0.05,77520.0,57733.63,19786.37,Net Banking
+ORD1170,2025-03-18,CUST171,Tamil Nadu,Small Business,Webcam,Accessories,1,1500,0.0,1500.0,1096.78,403.22,Net Banking
+ORD1171,2025-01-25,CUST131,Rajasthan,Small Business,Monitor,Electronics,3,28800,0.05,82080.0,63955.89,18124.11,Cash
+ORD1172,2025-01-09,CUST166,Tamil Nadu,Consumer,Webcam,Accessories,1,2300,0.15,1955.0,1838.5,116.5,Credit Card
+ORD1173,2025-08-02,CUST124,Haryana,Small Business,Headphones,Accessories,1,3900,0.1,3510.0,2839.64,670.36,Debit Card
+ORD1174,2025-08-29,CUST106,Rajasthan,Corporate,Monitor,Electronics,5,22400,0.0,112000.0,84906.16,27093.84,Debit Card
+ORD1175,2025-12-03,CUST114,Tamil Nadu,Small Business,Laptop,Electronics,1,63200,0.1,56880.0,46023.83,10856.17,Debit Card
+ORD1176,2025-03-31,CUST160,Punjab,Small Business,Keyboard,Accessories,3,1000,0.1,2700.0,2528.11,171.89,Credit Card
+ORD1177,2025-01-23,CUST126,Delhi,Corporate,Keyboard,Accessories,4,1200,0.0,4800.0,3545.7,1254.3,Debit Card
+ORD1178,2025-11-28,CUST125,Karnataka,Corporate,Tablet,Electronics,5,53700,0.15,228225.0,196182.95,32042.05,UPI
+ORD1179,2025-07-24,CUST157,Rajasthan,Corporate,Printer,Office Equipment,1,13900,0.1,12510.0,10666.72,1843.28,Credit Card
+ORD1180,2025-08-06,CUST111,Rajasthan,Small Business,Webcam,Accessories,3,7800,0.1,21060.0,19661.37,1398.63,Credit Card
+ORD1181,2025-06-01,CUST140,Punjab,Small Business,Headphones,Accessories,1,3200,0.0,3200.0,2385.87,814.13,Net Banking
+ORD1182,2025-06-30,CUST179,Rajasthan,Corporate,Keyboard,Accessories,3,3600,0.15,9180.0,7435.49,1744.51,UPI
+ORD1183,2025-12-14,CUST121,Delhi,Consumer,Monitor,Electronics,4,26100,0.1,93960.0,81705.24,12254.76,Cash
+ORD1184,2025-11-27,CUST147,Gujarat,Corporate,Webcam,Accessories,2,1900,0.0,3800.0,2763.36,1036.64,Cash
+ORD1185,2025-07-10,CUST157,Haryana,Small Business,Laptop,Electronics,2,75900,0.15,129030.0,132030.28,-3000.28,Credit Card
+ORD1186,2025-02-28,CUST104,Uttar Pradesh,Corporate,Printer,Office Equipment,3,17100,0.1,46170.0,37445.02,8724.98,Cash
+ORD1187,2025-12-27,CUST158,Maharashtra,Small Business,Tablet,Electronics,1,40700,0.1,36630.0,33984.21,2645.79,Debit Card
+ORD1188,2025-08-20,CUST123,Punjab,Consumer,Webcam,Accessories,1,4000,0.05,3800.0,3402.26,397.74,Debit Card
+ORD1189,2025-03-22,CUST123,Gujarat,Small Business,Printer,Office Equipment,1,25100,0.1,22590.0,21542.49,1047.51,Credit Card
+ORD1190,2025-01-14,CUST147,West Bengal,Small Business,Monitor,Electronics,2,14100,0.05,26790.0,23633.7,3156.3,Debit Card
+ORD1191,2025-07-23,CUST162,West Bengal,Corporate,Webcam,Accessories,2,8500,0.0,17000.0,11783.54,5216.46,Net Banking
+ORD1192,2025-12-15,CUST167,Gujarat,Consumer,Monitor,Electronics,3,12200,0.0,36600.0,28181.81,8418.19,Cash
+ORD1193,2025-09-23,CUST120,Karnataka,Consumer,Keyboard,Accessories,4,1600,0.0,6400.0,5416.18,983.82,Credit Card
+ORD1194,2025-09-23,CUST137,Haryana,Corporate,Printer,Office Equipment,2,25100,0.1,45180.0,43648.73,1531.27,Credit Card
+ORD1195,2025-03-28,CUST176,Tamil Nadu,Consumer,Headphones,Accessories,3,2000,0.0,6000.0,4683.09,1316.91,Credit Card
+ORD1196,2025-11-25,CUST174,Karnataka,Small Business,Printer,Office Equipment,1,21400,0.0,21400.0,14899.63,6500.37,Credit Card
+ORD1197,2025-10-07,CUST138,Karnataka,Corporate,Tablet,Electronics,1,43600,0.15,37060.0,37400.05,-340.05,Credit Card
+ORD1198,2025-03-22,CUST157,Rajasthan,Corporate,Tablet,Electronics,4,27200,0.0,108800.0,88968.23,19831.77,Net Banking
+ORD1199,2025-06-13,CUST145,Rajasthan,Consumer,Mouse,Accessories,5,1500,0.05,7125.0,5568.87,1556.13,Debit Card
+ORD1200,2025-08-19,CUST132,Uttar Pradesh,Consumer,Monitor,Electronics,2,17100,0.15,29070.0,24094.05,4975.95,UPI
+ORD1201,2025-03-23,CUST142,Tamil Nadu,Small Business,Headphones,Accessories,5,3600,0.15,15300.0,13133.77,2166.23,Debit Card
